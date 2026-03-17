@@ -82,19 +82,6 @@ I focus on building **usable, structured, and scalable systems** — not just pr
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgoenka&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=pgoenka&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgoenka&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 * 🏗️ Scaling **pilani.online** into a multi-product ecosystem
