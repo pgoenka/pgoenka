@@ -57,6 +57,7 @@ I focus on building **usable, structured, and scalable systems** — not just pr
 ---
 
 ### 🔌 Embedded Systems (STM32)
+> 🔗 https://github.com/Embedded-PG
 
 > Low-level systems engineering
 
