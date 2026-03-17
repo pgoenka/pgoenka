@@ -19,7 +19,7 @@ I focus on building **usable, structured, and scalable systems** — not just pr
 
 ## 🏢 pilani.online
 
-> 🔗 https://github.com/pilani.online
+> 🔗 https://github.com/pilani-online
 
 **pilani.online** is a growing ecosystem of platforms and tools designed to bring structure, usability, and scale to student-facing systems.
 
